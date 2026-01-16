@@ -1,4 +1,4 @@
-# DINO-Reg
+# the original README of DINO-Reg
 
 Official repository for the MICCAI 2024 paper:  
 **[DINO-Reg: General Purpose Image Encoder for Training-Free Multi-modal Deformable Medical Image Registration](https://papers.miccai.org/miccai-2024/paper/2230_paper.pdf)**
